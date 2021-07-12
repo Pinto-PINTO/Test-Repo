@@ -1,1 +1,3 @@
-print('trial2: trial2 message')
+print('new features implemented on trial2 file')
+print('new features implemented on trial2 file')
+print('new features implemented on trial2 file')
